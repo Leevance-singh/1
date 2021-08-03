@@ -1,0 +1,166 @@
+body{
+  background-color: #f2deea ;
+  margin: 0 0 0 0;
+
+
+}
+
+h1{
+
+  color: #A239EA;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 40px ;
+}
+
+h3{
+
+  font-family: 'Comfortaa', cursive;
+  color: white;
+}
+
+hr{
+  border-color: #FF94CC;
+  border-style:  dotted;
+  border-spacing: 30px ;
+  border-width: 20px 0 0 0;
+  width: 10% ;
+ }
+.logo{
+  float: left;
+}
+
+.hobby1{
+  padding-top: 300px ;
+  height: 500px ;
+
+}
+
+.hobby2{
+  float: right;
+}
+
+.hobby0{
+  margin-right: 200px ;
+  padding-left: 100px ;
+  width: 20% ;
+  float: left;
+  border-right: 100px ;
+}
+
+.hobby3{
+  height: 500px ;
+}
+
+
+.hobby4{
+height: 500px
+}
+
+
+
+.pic2{
+  margin-right: 230px ;
+  padding-left: 100px ;
+  width: 20% ;
+  float: left;
+  border-right: 100px ;
+}
+
+.pic3{
+  margin-right: 230px ;
+  padding-left: 100px ;
+  width: 20% ;
+  float: left;
+  border-right: 100px ;
+}
+
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #FF94CC;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #A239EA;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #5C33F6;
+  color: white;
+}
+
+.whiteline{
+  border-style: solid;
+  border-color: #A239EA ;
+  width: 100% ;
+}
+
+.bottomtxt{
+  text-align: center ;
+}
+
+.heading{
+  text-align: center;
+}
+
+.instapic{
+  margin-right: 230px ;
+  padding-left: 100px ;
+  width: 10% ;
+  float: left;
+  border-right: 100px ;
+}
+
+
+.social0{
+  margin: auto;
+  padding-top: 50px ;
+  height: 300px ;
+}
+
+.social2{
+  margin: auto;
+  height: 300px ;
+}
+
+.fbpic{
+  margin-right: 230px ;
+  padding-left: 100px ;
+  width: 10% ;
+  float: left;
+  border-right: 100px ;
+}
+.gaming {
+  margin-left: auto;
+  margin-right: auto;
+}
+td{
+  text-align:center
+}
+
+table{
+  width: 100%;
+  padding: 20px 10px 0 20px ;
+  border-bottom: 3 ;
+}
+th{
+  background-color: #FF94CC;
+}
+
+tr{
+  background-color: #A239EA ;
+}
